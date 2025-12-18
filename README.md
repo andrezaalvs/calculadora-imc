@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Calculadora de IMC e Saúde
 
 Um aplicativo Android moderno desenvolvido em Kotlin que calcula o Índice de Massa Corporal (IMC) e outras métricas importantes de saúde, com armazenamento de histórico de cálculos.
@@ -219,7 +218,3 @@ Se você encontrar algum problema ou tiver sugestões, por favor, abra uma issue
 ---
 
 **Desenvolvido com ❤️ usando Kotlin e Jetpack Compose**
-
-=======
-# calculadora-imc
->>>>>>> 234b175432dfb6f39e652115cad31b98dd5007ae
