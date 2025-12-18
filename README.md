@@ -302,6 +302,32 @@ O APK será gerado em: `app/build/outputs/apk/debug/app-debug.apk`
 
 ---
 
+## 📸 Screenshots
+
+<!-- Adicione suas imagens aqui usando o formato abaixo -->
+<!-- Cole suas imagens na pasta docs/images/ e depois referencie aqui -->
+
+### Tela Principal (Home)
+![Tela Principal do Aplicativo](docs/images/tela-principal.png)
+
+### Tela de Histórico
+![Tela de Histórico](docs/images/tela-historico.png)
+
+### Resultados do Cálculo
+![Resultados do Cálculo](docs/images/resultados.png)
+
+<!-- 
+Para adicionar mais imagens, use o formato:
+![Descrição da imagem](docs/images/nome-do-arquivo.png)
+
+Dicas:
+- Use nomes descritivos para os arquivos (ex: tela-principal.png)
+- Formatos suportados: PNG, JPG, GIF, SVG
+- PNG é recomendado para screenshots
+-->
+
+---
+
 ## 🔮 Melhorias Futuras e Escalabilidade
 
 O aplicativo foi desenvolvido de forma modular, permitindo sua evolução em versões futuras. Entre as melhorias previstas, destacam-se:
