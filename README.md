@@ -304,27 +304,31 @@ O APK será gerado em: `app/build/outputs/apk/debug/app-debug.apk`
 
 ## 📸 Screenshots
 
-<!-- Adicione suas imagens aqui usando o formato abaixo -->
-<!-- Cole suas imagens na pasta docs/images/ e depois referencie aqui -->
+### Interface do Aplicativo
 
-### Tela Principal (Home)
-![Tela Principal do Aplicativo](docs/images/tela-principal.png)
+#### Tela Principal - Formulário de Entrada
+<img src="docs/images/001.jpeg" alt="Tela Principal - Formulário" width="500">
 
-### Tela de Histórico
-![Tela de Histórico](docs/images/tela-historico.png)
+#### Tela Principal - Campos Preenchidos
+<img src="docs/images/002.jpeg" alt="Tela Principal - Campos Preenchidos" width="500">
 
-### Resultados do Cálculo
-![Resultados do Cálculo](docs/images/resultados.png)
+#### Resultados do Cálculo
+<img src="docs/images/003.jpeg" alt="Resultados do Cálculo" width="500">
 
-<!-- 
-Para adicionar mais imagens, use o formato:
-![Descrição da imagem](docs/images/nome-do-arquivo.png)
+#### Classificação do IMC
+<img src="docs/images/004.jpeg" alt="Classificação do IMC" width="500">
 
-Dicas:
-- Use nomes descritivos para os arquivos (ex: tela-principal.png)
-- Formatos suportados: PNG, JPG, GIF, SVG
-- PNG é recomendado para screenshots
--->
+#### Tela de Histórico
+<img src="docs/images/005.jpeg" alt="Tela de Histórico" width="500">
+
+#### Detalhes do Histórico
+<img src="docs/images/006.jpeg" alt="Detalhes do Histórico" width="500">
+
+#### Navegação entre Telas
+<img src="docs/images/007.jpeg" alt="Navegação entre Telas" width="500">
+
+#### Visualização Completa
+<img src="docs/images/008.jpeg" alt="Visualização Completa" width="500">
 
 ---
 
